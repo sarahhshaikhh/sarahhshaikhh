@@ -33,6 +33,7 @@ Most of my work here is around **analytics, machine learning, NLP and research**
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat\&logo=microsoftexcel\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
 
-### Find me here
+### Find me here 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah_Shaikh-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sarah-shaikh-07a3b3289/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-FF69B4?style=flat&logo=googlechrome&logoColor=white)](YOUR-WEBSITE-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah_Shaikh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-shaikh-07a3b3289/)
