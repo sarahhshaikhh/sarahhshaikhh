@@ -48,11 +48,3 @@ I'm a final-year **B.Tech Artificial Intelligence & Data Science** student inter
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah_Shaikh-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sarah-shaikh-07a3b3289/)
-
----
-
-### 📊 GitHub
-
-![Sarah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarahhshaikhh\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahhshaikhh\&layout=compact\&hide_border=true)
