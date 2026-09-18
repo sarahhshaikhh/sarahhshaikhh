@@ -1,16 +1,16 @@
 # Hey, I'm Sarah 👋
 
-I'm a final-year **AI & Data Science** student who likes working with data — from analysing it and building dashboards to experimenting with ML models.
+I'm a final-year **AI & Data Science** student who likes working with data, from analysing it and building dashboards to experimenting with ML models.
 
 Most of my work here is around **analytics, machine learning, NLP and research**.
 
 ### A little about me
 
-* 🎓 Final-year B.Tech in AI & Data Science
-* 📊 Worked on business analytics and BI during my internship in Riyadh
-* 🔬 Currently working with patent data and network analysis as part of research
-* 🧠 Interested in analytics, ML, NLP and how they can be used to solve actual business problems
-* 🌱 Currently sharpening my Python and data analytics stack
+* Final-year B.Tech in AI & Data Science
+* Worked on business analytics and BI
+* Currently working with patent data and network analysis as part of research
+* Interested in analytics, ML, NLP and how they can be used to solve actual business problems
+* Currently sharpening my Python and data analytics stack
 
 ### 🛠️ I work with
 
@@ -35,5 +35,5 @@ Most of my work here is around **analytics, machine learning, NLP and research**
 
 ### Find me here 🌐
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-FF69B4?style=flat&logo=googlechrome&logoColor=white)](YOUR-WEBSITE-LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-FF69B4?style=flat&logo=googlechrome&logoColor=white)](https://sarah-shaikh-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarah_Shaikh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-shaikh-07a3b3289/)
